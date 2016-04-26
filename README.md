@@ -131,7 +131,7 @@ Create a function that:
 40|factors_2_or_7.js| takes a number as a parameter, and finds all the factors of 2 or 7 that are less than it.
 41|factors_2_and_7.js| takes a number as a parameter, and finds all the factors of both 2 and 7 that are less than it.
 42|factorial.js| takes a number as a parameter, and can calculate the factorial of it.
-43|fibonacci.js| takes a number as a parameter, and can calculate a fibonacci
+43|fibonacci.js| takes a number as a parameter, and can calculate a fibonacci sequence less than that number.
 44|ascii_upper.js | can find the sum of all the capital letter ASCII codes
 45|ascii_params.js  | takes a word as a parameter, and returns the sum of all the ASCII codes for it.
 46| mondays.js| takes a year as an parameter, and finds the number of Mondays in that year
