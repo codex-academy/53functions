@@ -6,13 +6,15 @@ You can think of 53 functions as small bite size programming challenges which ai
 
 ## Requirements:
 
-For these exercises it's assumed that :
+For these exercises it's assumed that:
+
 * node is installed
 * npm is installed
 
 Basic knowledge required:
+
 * basic understanding of node modules
-* Javascript knowledge
+* JavaScript knowledge
 
 ## What to do:
 
@@ -47,7 +49,7 @@ module.exports = function (){
 };
 ```
 
-The function is written as a Node JS module. Read more about modules [here](http://openmymind.net/2012/2/3/Node-Require-and-Exports/),
+The function is written as a Node.JS module. Read more about modules [here](http://openmymind.net/2012/2/3/Node-Require-and-Exports/),
 [here](http://eloquentjavascript.net/10_modules.html),
 [here](http://www.sitepoint.com/understanding-module-exports-exports-node-js/) or [here](http://www.hacksparrow.com/node-js-exports-vs-module-exports.html) :-)
 
@@ -73,9 +75,10 @@ describe('test for hello', function(){
 
 ```
 
+<!--codex ignore mocha-->
 To run the tests type: `mocha`
 
-If you run mocha `1` test will pass, and `6` will fail.
+If you run Mocha `1` test will pass, and `6` will fail.
 
 Go ahead and fix the failing tests by adding function implementations. There are stub implementations for the first 7 functions, note that there are more than one test for some of the functions.
 
